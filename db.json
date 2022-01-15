@@ -1,0 +1,147 @@
+{
+  "films": [
+  {
+    "id": 1,
+    "name": "Harry Potter y la piedra filosofal",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf1.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2001",
+	"duration": "2h 32min",
+	"director": "Chris Columbus",
+	"description": "alguna"
+  },
+  {
+    "id": 2,
+    "name": "Harry Potter y la cámara secreta",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf2.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2002",
+	"duration": "2h 41min",
+	"director": "Chris Columbus",
+	"description": "alguna"
+  },
+  {
+    "id": 3,
+    "name": "Harry Potter y el prisionero de Azkaban",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf3.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2004",
+	"duration": "2h 22min",
+	"director": "Alfonso Cuarón",
+	"description": "alguna"
+  },
+  {
+    "id": 4,
+    "name": "Harry Potter y el cáliz de fuego",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf4.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2005",
+	"duration": "2h 37min",
+	"director": "Mike Newell",
+	"description": "alguna"
+  },
+  {
+    "id": 5,
+    "name": "Harry Potter y la Orden del Fénix",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf5.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2007",
+	"duration": "2h 18min",
+	"director": "David Yates",
+	"description": "alguna"
+  },
+  {
+    "id": 6,
+    "name": "Harry Potter y el príncipe mestizo",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf6.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2009",
+	"duration": "2h 33min",
+	"director": "David Yates",
+	"description": "alguna"
+  },
+  {
+    "id": 7,
+    "name": "Harry Potter y las reliquias de la muerte - Parte 1",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf7.png",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2010",
+	"duration": "2h 26min",
+	"director": "David Yates",
+	"description": "alguna"
+  },
+  {
+    "id": 8,
+    "name": "Harry Potter y las reliquias de la muerte - Parte 2",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf8.png",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2011",
+	"duration": "2h 10min",
+	"director": "David Yates",
+	"description": "alguna"
+  },
+  {
+    "id": 9,
+    "name": "Animales fantásticos y dónde encontrarlos",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf9.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2016",
+	"duration": "2h 13min",
+	"director": "David Yates",
+	"description": "alguna"
+  },
+  {
+    "id": 10,
+    "name": "Animales fantásticos: Los crímenes de Grindelwald",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf10.png",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2018",
+	"duration": "2h 14min",
+	"director": "David Yates",
+	"description": "alguna"
+  },
+  {
+    "id": 11,
+    "name": "Animales fantásticos: Los secretos de Dumbledore",
+    "img": "https://raw.githubusercontent.com/alfredoespal97/json_wwf/main/assets/wwf11.jpg",
+    "type": [
+      "Adventure",
+      "Fantastic"
+    ],
+	"year": "2022",
+	"duration": "por definir",
+	"director": "David Yates",
+	"description": "alguna"
+  }
+   ]
+}

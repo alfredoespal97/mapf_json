@@ -1,5 +1,6 @@
 {
-	{
+	"objetos":[
+	  {
     "id": 1,
 	"description": "Espejo con consola. Perteneció a la familia Cacicedro Tarriente, quien vivió en el palacio entre 1931 y finales de la década de 1970, manteniéndose hasta nuestros días en el inmueble."
   },
@@ -15,4 +16,5 @@
     "id": 4,
 	"description": "Juego de muebles. Muebles cubanos de finales del Siglo XIX. Profundamente decorado."
   }
+	  ]
 }

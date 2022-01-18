@@ -1,25 +1,18 @@
-{"recibidor":[
-{"id":1,
-"img":"www.algo.com"},
-{"id":2,
-"img":"www.algo2.com"},
-{"id":3,
-"img":"www.algo2.com"},
-{"id":4,
-"img":"www.algo2.com"},
-{"id":5,
-"img":"www.algo2.com"}
-],
-"etnografia":[
-{"id":1,
-"img":"www.algo.com"},
-{"id":2,
-"img":"www.algo2.com"},
-{"id":3,
-"img":"www.algo2.com"},
-{"id":4,
-"img":"www.algo2.com"},
-{"id":5,
-"img":"www.algo2.com"}
-]
+{
+	{
+    "id": 1,
+	"description": "Espejo con consola. Perteneció a la familia Cacicedro Tarriente, quien vivió en el palacio entre 1931 y finales de la década de 1970, manteniéndose hasta nuestros días en el inmueble."
+  },
+  {
+    "id": 2,
+	"description": "Cómoda de hombre. Mueble cubano de madera preciosa de finales del Siglo XIX. Profundamente decorado."
+  },
+  {
+    "id": 3,
+	"description": "Tocador de mujer. Mueble cubano de finales del Siglo XIX. Profundamente decorado."
+  },
+  {
+    "id": 4,
+	"description": "Juego de muebles. Muebles cubanos de finales del Siglo XIX. Profundamente decorado."
+  }
 }
